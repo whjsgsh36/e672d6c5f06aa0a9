@@ -1,0 +1,8 @@
+Video URL:
+https://whjsgsh36.github.io/player/?list=https://raw.githubusercontent.com/whjsgsh36/e672d6c5f06aa0a9/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://whjsgsh36.github.io/player/?list=https://raw.githubusercontent.com/whjsgsh36/e672d6c5f06aa0a9/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Thumbnail URL:
+https://i.ibb.co/KxWpbBTn/Toonworld4all-Haddi-Mera-Buddy-Season-01-Episode-09-02-Educating-Grim-576p-x264-Voot-Kids-WEB-DL-Mul.jpg
